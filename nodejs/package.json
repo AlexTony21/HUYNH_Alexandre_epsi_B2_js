@@ -1,0 +1,21 @@
+{
+	"name": "HUYNH_Alexandre_epsi_B2_js",
+	"version": "1.0.0",
+	"description": "Cours JS",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.16.4",
+		"http-server": "^0.11.1",
+		"pug": "^2.0.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"server": "http-server dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AlexTony21/HUYNH_Alexandre_epsi_B2_js.git"
+	},
+	"author": "ATH",
+	"homepage": "https://github.com/AlexTony21/HUYNH_Alexandre_epsi_B2_js#readme"
+}

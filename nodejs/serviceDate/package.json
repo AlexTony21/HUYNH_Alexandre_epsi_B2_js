@@ -1,0 +1,19 @@
+{
+  "name": "servicedate",
+  "version": "1.0.0",
+  "description": "Service Web Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTony21/HUYNH_Alexandre_epsi_B2_js.git"
+  },
+  "author": "Alexandre HUYNH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTony21/HUYNH_Alexandre_epsi_B2_js/issues"
+  },
+  "homepage": "https://github.com/AlexTony21/HUYNH_Alexandre_epsi_B2_js#readme"
+}

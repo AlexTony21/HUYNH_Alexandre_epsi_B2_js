@@ -1,0 +1,1 @@
+Ici, on pourra retrouver l'exercice sur l'ajax, exercice consistant à montrer sur une carte OpenStreetMap les diiférentes écoles sur Paris.

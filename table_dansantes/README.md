@@ -1,0 +1,1 @@
+Ici, on pourra retrouver l'exercice sur les tables de multiplication sous forme graphique sur une page HTML.

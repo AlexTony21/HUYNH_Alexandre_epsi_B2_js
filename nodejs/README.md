@@ -1,0 +1,1 @@
+Ici, on peut retrouver l'exercice sur le service web affichant la date (lancer en faisant node app.js) et celui du socket (avec la page html).
