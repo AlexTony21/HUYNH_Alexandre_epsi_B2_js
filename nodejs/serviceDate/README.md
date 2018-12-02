@@ -10,8 +10,8 @@ de commande nodejs.
 sélectionnez le répertoir à la base de "app.js" et éxécuter la commande
 "node server.js"
 
-3- Se rendre sur http://localhost:8080/service?type=iso et 
-http://localhost:8080/service?type=date (ou l'ip de la machine 
+3- Se rendre sur http://localhost:3000/service?type=iso et 
+http://localhost:3000/service?type=date (ou l'ip de la machine 
 sur laquelle le server est 
 hébergé à la place de localhost).
 
