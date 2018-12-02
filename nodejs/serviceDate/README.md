@@ -7,7 +7,7 @@ sont installé, si ce n'est pas le cas, faire 'npm install express' dans l'invit
 de commande nodejs.
 
 2- Pour démarrer le serveur, ouvrez l'invite de commande nodejs,
-sélectionnez le répertoir à la base de "server.js" et éxécuter la commande
+sélectionnez le répertoir à la base de "app.js" et éxécuter la commande
 "node server.js"
 
 3- Se rendre sur http://localhost:8080/service?type=iso et 
