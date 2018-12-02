@@ -8,7 +8,7 @@ de commande nodejs.
 
 2- Pour démarrer le serveur, ouvrez l'invite de commande nodejs,
 sélectionnez le répertoir à la base de "app.js" et éxécuter la commande
-"node server.js"
+"node app.js"
 
 3- Se rendre sur http://localhost:3000/service?type=iso et 
 http://localhost:3000/service?type=date (ou l'ip de la machine 
