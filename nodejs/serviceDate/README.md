@@ -26,8 +26,8 @@ si ce n'est pas le cas, faire 'npm install socket.io' dans l'invite
 de commande nodejs.
 
 2- Pour démarrer le serveur, ouvrez l'invite de commande nodejs,
- sélectionnez le répertoir à la base de "index.js" et éxécuter la commande
- "node index.js"
+ sélectionnez le répertoir à la base de "socket.js" et éxécuter la commande
+ "node socket.js"
 
 3- Se rendre sur http://localhost:3000 (ou l'ip de la machine 
 sur laquelle le server est hébergé à la place de localhost).
